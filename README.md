@@ -4,6 +4,7 @@ Work in your Kooga marketing from Claude, ChatGPT, Cursor or any MCP client: ask
 
 [![Add to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=Kooga&config=eyJ1cmwiOiJodHRwczovL21jcC5rb29nYS5pby9tY3AifQ%3D%3D)
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Kooga-0098FF?logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=kooga&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.kooga.io%2Fmcp%22%7D)
+[![Kooga MCP connector: tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.kooga.mcp/kooga/badges/score.svg)](https://glama.ai/mcp/connectors/io.kooga.mcp/kooga)
 
 | | |
 |---|---|

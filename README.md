@@ -1,12 +1,8 @@
 <p align="center">
-  <a href="https://kooga.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="skills/kooga-mcp/assets/kooga-wordmark-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="skills/kooga-mcp/assets/kooga-wordmark-light.svg">
-      <img src="skills/kooga-mcp/assets/kooga-wordmark-light.svg" alt="Kooga" width="220">
-    </picture>
-  </a>
+  <a href="https://kooga.io"><img src="skills/kooga-mcp/assets/kooga-icon.png" alt="Kooga" width="96" height="96"></a>
 </p>
+
+<h1 align="center">Kooga</h1>
 
 <p align="center"><strong>Your business's marketing, in your AI assistant.</strong></p>
 
@@ -25,11 +21,9 @@
 
 Ask how your sales, Google rankings, AI visibility and email moved, and have Kooga write articles, draft campaigns and answer what its agents left for you. Anything that leaves Kooga asks you first. The **Kooga** plugin bundles the hosted MCP connection and a workflow skill that teaches your assistant to use it well.
 
-| | |
-|---|---|
-| Server | `https://mcp.kooga.io/mcp`, Streamable HTTP |
-| Sign-in | OAuth 2.1 (dynamic client registration, PKCE), or an access token |
-| Registry name | `io.kooga/kooga` |
+- **Server:** `https://mcp.kooga.io/mcp`, Streamable HTTP
+- **Sign-in:** OAuth 2.1 (dynamic client registration, PKCE), or an access token
+- **Registry name:** `io.kooga/kooga`
 
 ## Works with
 
@@ -38,7 +32,7 @@ Ask how your sales, Google rankings, AI visibility and email moved, and have Koo
 | <img src="https://kooga.io/images/logos/shopify-icon.svg" width="20" height="20" alt=""> | Shopify | Reads orders, products, customers and product listings; publishes articles to the store's blog |
 | <img src="https://kooga.io/images/logos/wordpress-icon.svg" width="20" height="20" alt=""> | WordPress and WooCommerce | Reads WooCommerce orders and products; publishes articles to the site |
 | <img src="https://kooga.io/images/logos/google-search-console-icon.svg" width="20" height="20" alt=""> | Google Search Console | Reads clicks, impressions and queries: pages just off page one, articles losing traffic |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://kooga.io/images/logos/ChatGPT-logo-white.svg"><img src="https://kooga.io/images/logos/ChatGPT-logo.svg" width="20" height="20" alt=""></picture> <img src="https://kooga.io/images/logos/claude-logo.svg" width="20" height="20" alt=""> <img src="https://kooga.io/images/logos/gemini-logo.svg" width="20" height="20" alt=""> <img src="https://kooga.io/images/logos/perplexity-logo.svg" width="20" height="20" alt=""> | ChatGPT, Claude, Gemini, Perplexity and Google's AI Overviews | Asks them the questions your buyers ask, and tracks how often they name you, who they name instead and what they cite |
+| <img src=".github/assets/chatgpt-tile.svg" width="20" height="20" alt=""> <img src="https://kooga.io/images/logos/claude-logo.svg" width="20" height="20" alt=""> <img src="https://kooga.io/images/logos/gemini-logo.svg" width="20" height="20" alt=""> <img src="https://kooga.io/images/logos/perplexity-logo.svg" width="20" height="20" alt=""> | ChatGPT, Claude, Gemini, Perplexity and Google's AI Overviews | Asks them the questions your buyers ask, and tracks how often they name you, who they name instead and what they cite |
 
 Email goes out from Kooga itself, from your own verified domain.
 

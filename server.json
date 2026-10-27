@@ -3,7 +3,7 @@
   "name": "io.kooga/kooga",
   "title": "Kooga",
   "description": "AI marketing for businesses: SEO content, AI visibility, email campaigns and analytics.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://kooga.io/docs/integrations/connect-an-assistant",
   "repository": {
     "url": "https://github.com/HushThrive/kooga-mcp",
@@ -11,7 +11,9 @@
   },
   "icons": [
     { "src": "https://kooga.io/icon.png", "mimeType": "image/png", "sizes": ["512x512"] },
-    { "src": "https://kooga.io/images/logos/kooga-icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }
+    { "src": "https://kooga.io/images/logos/kooga-icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] },
+    { "src": "https://kooga.io/images/logos/kooga-mark.svg", "mimeType": "image/svg+xml", "sizes": ["any"], "theme": "light" },
+    { "src": "https://kooga.io/images/logos/kooga-mark-on-dark.svg", "mimeType": "image/svg+xml", "sizes": ["any"], "theme": "dark" }
   ],
   "remotes": [
     {

@@ -1,0 +1,15 @@
+interface:
+  display_name: "Kooga"
+  short_description: "Read and run your business's marketing in Kooga"
+  icon_small: "./assets/kooga-mark-light.svg"
+  icon_large: "./assets/kooga-wordmark-light.svg"
+  brand_color: "#4338CA"
+  default_prompt: "Use $kooga-mcp to show what is waiting for me in Kooga."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "kooga"
+      description: "Kooga marketing MCP server"
+      transport: "streamable_http"
+      url: "https://mcp.kooga.io/mcp"

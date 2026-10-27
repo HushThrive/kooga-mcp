@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kooga": {
+      "type": "http",
+      "url": "https://mcp.kooga.io/mcp"
+    }
+  }
+}

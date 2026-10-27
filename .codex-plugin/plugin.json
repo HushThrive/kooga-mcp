@@ -1,0 +1,34 @@
+{
+  "name": "kooga",
+  "version": "1.0.0",
+  "description": "Ask about your business's sales, Google rankings, AI visibility and email, and have Kooga write, change and send for you, asking first before anything leaves Kooga.",
+  "author": {
+    "name": "Kooga",
+    "url": "https://kooga.io"
+  },
+  "homepage": "https://kooga.io/docs/integrations/connect-an-assistant",
+  "repository": "https://github.com/HushThrive/kooga-mcp",
+  "license": "MIT",
+  "keywords": ["kooga", "marketing", "seo", "ai-visibility", "email-marketing", "ecommerce", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Kooga",
+    "shortDescription": "Your business's marketing in your assistant",
+    "longDescription": "Read your store's sales, Google search, AI visibility and email results, and have Kooga write articles, draft campaigns and answer what its agents left on Tasks. Anything that leaves Kooga, such as publishing or sending, asks you first. Available tools depend on what your connection may do.",
+    "developerName": "Kooga",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://kooga.io",
+    "privacyPolicyURL": "https://kooga.io/privacy-policy",
+    "termsOfServiceURL": "https://kooga.io/terms-of-service",
+    "defaultPrompt": [
+      "What is waiting for me in Kooga?",
+      "How did my store sell over the last 7 days, and which products led?",
+      "How often do AI assistants mention us next to our competitors?"
+    ],
+    "brandColor": "#4338CA",
+    "composerIcon": "./skills/kooga-mcp/assets/kooga-mark-light.svg",
+    "logo": "./skills/kooga-mcp/assets/kooga-wordmark-light.svg"
+  }
+}

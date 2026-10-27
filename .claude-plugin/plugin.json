@@ -1,0 +1,20 @@
+{
+  "name": "kooga",
+  "displayName": "Kooga",
+  "version": "1.0.0",
+  "description": "Ask about your business's sales, Google rankings, AI visibility and email, and have Kooga write, change and send for you, asking first before anything leaves Kooga.",
+  "author": {
+    "name": "Kooga",
+    "email": "support@kooga.io",
+    "url": "https://kooga.io"
+  },
+  "homepage": "https://kooga.io/docs/integrations/connect-an-assistant",
+  "repository": "https://github.com/HushThrive/kooga-mcp",
+  "license": "MIT",
+  "keywords": ["kooga", "marketing", "seo", "ai-visibility", "email-marketing", "ecommerce", "mcp"],
+  "icon": "./skills/kooga-mcp/assets/kooga-icon.png",
+  "documentationUrl": "https://kooga.io/docs/integrations/connect-an-assistant",
+  "supportUrl": "https://kooga.io/contact",
+  "privacyPolicyUrl": "https://kooga.io/privacy-policy",
+  "termsOfServiceUrl": "https://kooga.io/terms-of-service"
+}

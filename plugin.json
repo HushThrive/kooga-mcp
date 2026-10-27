@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "kooga",
+  "version": "1.0.0",
+  "description": "Ask about your business's sales, Google rankings, AI visibility and email, and have Kooga write, change and send for you, asking first before anything leaves Kooga.",
+  "author": {
+    "name": "Kooga",
+    "url": "https://kooga.io"
+  },
+  "homepage": "https://kooga.io/docs/integrations/connect-an-assistant",
+  "repository": "https://github.com/HushThrive/kooga-mcp",
+  "license": "MIT",
+  "keywords": ["kooga", "marketing", "seo", "ai-visibility", "email-marketing", "ecommerce", "mcp"]
+}

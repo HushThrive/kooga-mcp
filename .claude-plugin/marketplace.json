@@ -1,0 +1,15 @@
+{
+  "name": "kooga",
+  "owner": {
+    "name": "Kooga",
+    "email": "support@kooga.io",
+    "url": "https://kooga.io"
+  },
+  "plugins": [
+    {
+      "name": "kooga",
+      "source": "./",
+      "description": "Your business's sales, Google rankings, AI visibility and email in your assistant, with Kooga asking first before anything leaves it."
+    }
+  ]
+}

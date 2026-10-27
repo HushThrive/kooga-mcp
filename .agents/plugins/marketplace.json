@@ -1,0 +1,20 @@
+{
+  "name": "kooga",
+  "interface": {
+    "displayName": "Kooga"
+  },
+  "plugins": [
+    {
+      "name": "kooga",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HushThrive/kooga-mcp.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

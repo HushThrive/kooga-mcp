@@ -1,0 +1,12 @@
+{
+  "identifier": "kooga",
+  "name": "Kooga",
+  "version": "1.0.0",
+  "description": "AI marketing for businesses: SEO content, AI visibility, email campaigns and analytics. Read your numbers and have Kooga write, change and send, asking first before anything leaves Kooga.",
+  "cloudEndpoint": "https://mcp.kooga.io/mcp",
+  "homepage": "https://kooga.io/docs/integrations/connect-an-assistant",
+  "author": "Kooga",
+  "authorUrl": "https://kooga.io",
+  "icon": "https://kooga.io/icon.png",
+  "tags": ["marketing", "seo", "geo", "email-marketing", "e-commerce", "analytics"]
+}
